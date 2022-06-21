@@ -3,7 +3,7 @@
 - 📖 Mostly javascript, but can work in python, haskell & java
 - 🏢 Backend developer @Artificial Nerds
 - 🎲 Building Pokémon tcg deck managers and D&D bots for discord
-- 📷 Pfp by: https://borbborbb.carrd.co/
+- 📷 Pfp by: https://www.instagram.com/sylver.woofles/
 
 <!---
 Hylandude/Hylandude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
